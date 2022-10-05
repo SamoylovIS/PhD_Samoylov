@@ -13,6 +13,7 @@
   \end{minipage}%
   \begin{minipage}[b]{0.5\linewidth}
     \begin{flushright}
+      \includegraphics[height=2.5cm]{sign}\\
       На правах рукописи\\
 %      \textsl {УДК \thesisUdk}
     \end{flushright}
@@ -56,19 +57,20 @@
 \thesisDegree
 \end{center}
 %
-\vspace{0pt plus4fill} %число перед fill = кратность относительно некоторого расстояния fill, кусками которого заполнены пустые места
+\vspace{0pt plus3fill} %число перед fill = кратность относительно некоторого расстояния fill, кусками которого заполнены пустые места
 \begin{flushright}
 \ifdefined\supervisorTwoFio
-Научные руководители:
+Научный руководитель:
 
 \supervisorRegalia
 
 \ifdefined\supervisorDead
 \framebox{\supervisorFio}
 \else
-\supervisorFio
+\supervisorFio\\
 \fi
-
+\vspace{0pt plus2fill}
+Научный консультант:\\
 \supervisorTwoRegalia
 
 \ifdefined\supervisorTwoDead
