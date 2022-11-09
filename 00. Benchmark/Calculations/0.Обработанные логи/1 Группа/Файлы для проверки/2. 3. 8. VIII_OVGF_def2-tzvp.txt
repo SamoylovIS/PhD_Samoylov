@@ -1,0 +1,268 @@
+Sorry, no attachment energies to unoccupied without  <ia|bc> integrals
+
+EPT corrections for alpha spin-orbital  18
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       18    -18.44285     -16.28749    0.90404
+B:       18    -18.44285     -16.48670    0.90200
+C:       18    -18.44285     -16.48834    0.90195
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+18    -18.44285     -16.28749    0.90404
+
+Summary of results for alpha spin-orbital  18  OVGF:
+Koopmans theorem:            -0.67776D+00 au  -18.443 eV
+Converged second order pole: -0.54859D+00 au  -14.928 eV  0.871 (PS)
+Converged third  order pole: -0.62629D+00 au  -17.042 eV  0.917 (PS)
+Outer Valence Approximation: -0.59855D+00 au  -16.287 eV  0.904 (PS)
+
+EPT corrections for alpha spin-orbital  19
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       19    -18.37797     -16.16085    0.90224
+B:       19    -18.37797     -16.35238    0.90049
+C:       19    -18.37797     -16.36593    0.90044
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+19    -18.37797     -16.16085    0.90224
+
+Summary of results for alpha spin-orbital  19  OVGF:
+Koopmans theorem:            -0.67538D+00 au  -18.378 eV
+Converged second order pole: -0.54392D+00 au  -14.801 eV  0.867 (PS)
+Converged third  order pole: -0.62246D+00 au  -16.938 eV  0.918 (PS)
+Outer Valence Approximation: -0.59390D+00 au  -16.161 eV  0.902 (PS)
+
+EPT corrections for alpha spin-orbital  20
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       20    -18.00017     -15.64766    0.90456
+B:       20    -18.00017     -15.85910    0.90291
+C:       20    -18.00017     -15.84756    0.90286
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+20    -18.00017     -15.64766    0.90456
+
+Summary of results for alpha spin-orbital  20  OVGF:
+Koopmans theorem:            -0.66149D+00 au  -18.000 eV
+Converged second order pole: -0.51941D+00 au  -14.134 eV  0.870 (PS)
+Converged third  order pole: -0.60489D+00 au  -16.460 eV  0.919 (PS)
+Outer Valence Approximation: -0.57504D+00 au  -15.648 eV  0.905 (PS)
+
+EPT corrections for alpha spin-orbital  21
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       21    -17.25065     -15.74286    0.88172
+B:       21    -17.25065     -15.81774    0.87791
+C:       21    -17.25065     -15.90451    0.87817
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+21    -17.25065     -15.74286    0.88172
+
+Summary of results for alpha spin-orbital  21  OVGF:
+Koopmans theorem:            -0.63395D+00 au  -17.251 eV
+Converged second order pole: -0.55910D+00 au  -15.214 eV  0.862 (PS)
+Converged third  order pole: -0.59328D+00 au  -16.144 eV  0.888 (PS)
+Outer Valence Approximation: -0.57854D+00 au  -15.743 eV  0.882 (PS)
+
+EPT corrections for alpha spin-orbital  22
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       22    -17.21828     -15.33159    0.88626
+B:       22    -17.21828     -15.47480    0.88423
+C:       22    -17.21828     -15.56446    0.88445
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+22    -17.21828     -15.33159    0.88626
+
+Summary of results for alpha spin-orbital  22  OVGF:
+Koopmans theorem:            -0.63276D+00 au  -17.218 eV
+Converged second order pole: -0.52671D+00 au  -14.333 eV  0.848 (PS)
+Converged third  order pole: -0.59117D+00 au  -16.087 eV  0.910 (PS)
+Outer Valence Approximation: -0.56343D+00 au  -15.332 eV  0.886 (PS)
+
+EPT corrections for alpha spin-orbital  23
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       23    -16.73781     -14.86884    0.89521
+B:       23    -16.73781     -14.89135    0.89322
+C:       23    -16.73781     -15.03504    0.89363
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+23    -16.73781     -14.89135    0.89322
+
+Summary of results for alpha spin-orbital  23  OVGF:
+Koopmans theorem:            -0.61510D+00 au  -16.738 eV
+Converged second order pole: -0.52317D+00 au  -14.236 eV  0.871 (PS)
+Converged third  order pole: -0.56317D+00 au  -15.325 eV  0.906 (PS)
+Outer Valence Approximation: -0.54725D+00 au  -14.891 eV  0.893 (PS)
+
+EPT corrections for alpha spin-orbital  24
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       24    -16.43156     -14.75344    0.88886
+B:       24    -16.43156     -14.84659    0.88610
+C:       24    -16.43156     -14.93036    0.88626
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+24    -16.43156     -14.84659    0.88610
+
+Summary of results for alpha spin-orbital  24  OVGF:
+Koopmans theorem:            -0.60385D+00 au  -16.432 eV
+Converged second order pole: -0.51663D+00 au  -14.058 eV  0.862 (PS)
+Converged third  order pole: -0.56019D+00 au  -15.244 eV  0.899 (PS)
+Outer Valence Approximation: -0.54560D+00 au  -14.847 eV  0.886 (PS)
+
+EPT corrections for alpha spin-orbital  25
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       25    -15.69099     -14.16285    0.90151
+B:       25    -15.69099     -14.27424    0.89879
+C:       25    -15.69099     -14.36238    0.89913
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+25    -15.69099     -14.27424    0.89879
+
+Summary of results for alpha spin-orbital  25  OVGF:
+Koopmans theorem:            -0.57663D+00 au  -15.691 eV
+Converged second order pole: -0.49505D+00 au  -13.471 eV  0.872 (PS)
+Converged third  order pole: -0.53984D+00 au  -14.690 eV  0.914 (PS)
+Outer Valence Approximation: -0.52457D+00 au  -14.274 eV  0.899 (PS)
+
+EPT corrections for alpha spin-orbital  26
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       26    -15.50230     -13.95186    0.90250
+B:       26    -15.50230     -14.00220    0.90046
+C:       26    -15.50230     -14.11814    0.90115
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+26    -15.50230     -14.00220    0.90046
+
+Summary of results for alpha spin-orbital  26  OVGF:
+Koopmans theorem:            -0.56970D+00 au  -15.502 eV
+Converged second order pole: -0.49388D+00 au  -13.439 eV  0.878 (PS)
+Converged third  order pole: -0.52716D+00 au  -14.345 eV  0.912 (PS)
+Outer Valence Approximation: -0.51457D+00 au  -14.002 eV  0.900 (PS)
+
+EPT corrections for alpha spin-orbital  27
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       27    -14.42559     -13.27264    0.88612
+B:       27    -14.42559     -13.41791    0.87999
+C:       27    -14.42559     -13.46596    0.87990
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+27    -14.42559     -13.41791    0.87999
+
+Summary of results for alpha spin-orbital  27  OVGF:
+Koopmans theorem:            -0.53013D+00 au  -14.426 eV
+Converged second order pole: -0.46643D+00 au  -12.692 eV  0.861 (PS)
+Converged third  order pole: -0.50479D+00 au  -13.736 eV  0.889 (PS)
+Outer Valence Approximation: -0.49310D+00 au  -13.418 eV  0.880 (PS)
+
+EPT corrections for alpha spin-orbital  28
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       28    -12.24239     -10.55272    0.89119
+B:       28    -12.24239     -10.75168    0.88802
+C:       28    -12.24239     -10.81292    0.88797
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+28    -12.24239     -10.75168    0.88802
+
+Summary of results for alpha spin-orbital  28  OVGF:
+Koopmans theorem:            -0.44990D+00 au  -12.242 eV
+Converged second order pole: -0.34752D+00 au   -9.457 eV  0.850 (PS)
+Converged third  order pole: -0.41905D+00 au  -11.403 eV  0.912 (PS)
+Outer Valence Approximation: -0.39512D+00 au  -10.752 eV  0.888 (PS)
+
+EPT corrections for alpha spin-orbital  29
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=        58
+NAB=    29 NAA=     0
+3 OVGF renormalized results based on the 3rd order
+Method   Orbital  HF-eigenvalue 3rd-order Polestrength
+A:       29    -10.54610      -9.92068    0.90156
+B:       29    -10.54610      -9.84810    0.90201
+C:       29    -10.54610     -10.01474    0.90224
+Renormalization of interaction, recommended value
+Orbital  HF-eigenvalue 3rd-order Polestrength
+29    -10.54610      -9.84810    0.90201
+
+Summary of results for alpha spin-orbital  29  OVGF:
+Koopmans theorem:            -0.38756D+00 au  -10.546 eV
+Converged second order pole: -0.36087D+00 au   -9.820 eV  0.884 (PS)
+Converged third  order pole: -0.37038D+00 au  -10.079 eV  0.909 (PS)
+Outer Valence Approximation: -0.36191D+00 au   -9.848 eV  0.902 (PS)
+Leave Link  908 at Wed Apr 20 10:31:20 2022, MaxMem=   268435456 cpu:           16082.5 elap:            2692.8
+(Enter /usr/local/Gaussian/gaussian-16-A03-sse4_2/g16/l601.exe)
+Copying SCF densities to generalized density rwf, IOpCl= 0 IROHF=0.

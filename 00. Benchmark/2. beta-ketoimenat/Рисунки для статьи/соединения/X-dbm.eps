@@ -1,0 +1,553 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 21 215 590 576
+%%Title: X - Dbm - def2tzvpp_geom.log D:/1_In_Progress/2. beta-ketoimenat/10 X - Dbm/X - Dbm - def2tzvpp_geom.log
+%%Creator: Created by GaussView 6.0.16
+%%CreationDate: 18.10.2021 12:03:13
+%%Pages: 1
+%%EndComments
+
+/mainFontSize 15 def
+/MainFont /Helvetica-Bold findfont mainFontSize scalefont def
+% Convoluted method for determining mainFontHeight
+0 0 moveto MainFont setfont (A) false charpath flattenpath pathbbox
+	/mainFontHeight exch def pop pop pop newpath
+
+% Global defines
+/PrintBackground 0 def
+/PrintBorder 1 def
+/PrintHeader 1 def
+/borderWidthOffset {  0.100 inch } def
+/borderHeightOffset {  0.100 inch } def
+/inch {72.0 mul} def
+/strokeLineWidth 1 def
+/borderLineWidth 2 def
+/halfBorderWidth borderLineWidth 2 div def
+
+/drawStrokedCircle
+{
+	/rad exch def
+	/ypos exch def
+	/xpos exch def
+	/circleColor exch def
+	xpos ypos rad 0 360 arc
+	gsave
+		circleColor setrgbcolor
+		fill
+	grestore
+	strokeLineWidth setlinewidth
+	0 0 0 setrgbcolor
+	stroke
+}def
+
+/drawSimpleCircle
+{
+	/rad exch def
+	/ypos exch def
+	/xpos exch def
+	/circleColor exch def
+	xpos ypos rad 0 360 arc
+	circleColor setrgbcolor
+	fill
+}def
+
+/drawWireAtom
+{
+	/ypos exch def
+	/xpos exch def
+	/lineColor exch def
+	1 setlinewidth
+	lineColor setrgbcolor
+	xpos ypos wireAtomSize add moveto
+	xpos ypos wireAtomSize sub lineto
+	stroke
+	xpos wireAtomSize add ypos moveto
+	xpos wireAtomSize sub ypos lineto
+	stroke
+}def
+
+/drawStrokedLine
+{
+	setlinecap
+	setdash
+	/lineWidth exch def
+	/y2 exch def
+	/x2 exch def
+	/y1 exch def
+	/x1 exch def
+	/bondColor exch def
+	gsave
+		colorBlack setrgbcolor
+		lineWidth setlinewidth
+		x1 y1 moveto
+		x2 y2 lineto
+		stroke
+	grestore
+	lineWidth strokeLineWidth sub setlinewidth
+	bondColor setrgbcolor
+	x1 y1  moveto
+	x2 y2  lineto
+	stroke
+	solid setdash
+}def
+
+/drawSimpleLine
+{
+	setlinecap
+	setdash
+	setlinewidth
+	/y2 exch def
+	/x2 exch def
+	/y1 exch def
+	/x1 exch def
+	/bondColor exch def
+	bondColor setrgbcolor
+	x1 y1 moveto
+	x2 y2 lineto
+	stroke
+	solid setdash
+}def
+
+/drawTriangle
+{
+	/y3 exch def
+	/x3 exch def
+	/y2 exch def
+	/x2 exch def
+	/y1 exch def
+	/x1 exch def
+	/triangleColor exch def
+	x1 y1 moveto
+	x2 y2 lineto
+	x3 y3 lineto
+	closepath
+	gsave
+		triangleColor setrgbcolor
+		fill
+	grestore
+	strokeLineWidth setlinewidth
+	colorBlack setrgbcolor
+	stroke
+}def
+
+/drawSimpleBox
+{
+	setlinewidth
+	/y2 exch def
+	/x2 exch def
+	/y1 exch def
+	/x1 exch def
+	/boxColor exch def
+	0 setlinejoin
+	boxColor setrgbcolor
+	x1 y1 x2 x1 sub y2 y1 sub rectstroke
+} def
+
+/drawRSimpleBox
+{
+	setlinewidth
+	/height exch def
+	/width exch def
+	/y exch def
+	/x exch def
+	/boxColor exch def
+	0 setlinejoin
+	boxColor setrgbcolor
+	x y width height rectstroke
+} def
+
+/drawCenteredText
+{
+	/fontheight exch def
+	/textfont exch def
+	/ypos exch def
+	/xpos exch def
+	/label exch def
+	textfont setfont
+	label stringwidth
+	/lheight exch def
+	/lwidth exch def
+	colorBlack setrgbcolor
+	xpos lwidth 0.5 mul sub ypos fontheight 0.5 mul sub moveto
+	label show
+	newpath
+}def
+
+/drawLeftJustifiedText
+{
+	/line_num exch def
+	/line_height exch def
+	/textfont exch def
+	/ypos exch def
+	/xpos exch def
+	/label exch def
+	textfont setfont
+	label stringwidth
+	/lheight exch def
+	/lwidth exch def
+	colorBlack setrgbcolor
+	xpos ypos line_height line_num mul sub moveto
+	label show
+	newpath
+}def
+
+/drawBackground
+{
+	colorBackground setrgbcolor
+	boundingBoxLeft boundingBoxBottom boundingBoxWidth boundingBoxHeight rectfill
+} def
+
+/drawBorder
+{
+	/left boundingBoxLeft halfBorderWidth add def
+	/bottom boundingBoxBottom halfBorderWidth add def
+	/width boundingBoxWidth halfBorderWidth 2 mul sub def
+	/height boundingBoxHeight halfBorderWidth 2 mul sub def
+	colorBlack left bottom width height borderLineWidth drawRSimpleBox
+} def
+
+/drawHeader
+{
+	/xpos boundingBoxLeft borderWidthOffset add def
+	/ypos boundingBoxTop borderHeightOffset sub def
+	(X - Dbm - def2tzvpp_geom.log D:/1_In_Progress/2. beta-ketoimenat/10 X - Dbm/X - Dbm - def2tzvpp_geom.log) xpos ypos MainFont mainFontSize 1 drawLeftJustifiedText
+	(Created by GaussView 6.0.16) xpos ypos MainFont mainFontSize 2 drawLeftJustifiedText
+	(18.10.2021 12:03:13) xpos ypos MainFont mainFontSize 3 drawLeftJustifiedText
+} def
+
+%%Page: (G1:M1:V1 - X - Dbm - def2tzvpp_geom.log (D:/1_In_Progress/2. beta-ketoimenat/10) X - Dbm/X - Dbm - def2tzvpp_geom.log))  1
+
+% Color defines
+/colorBlack {  0.000  0.000  0.000 } def
+/colorRed {  1.000  0.000  0.000 } def
+/colorGreen {  0.000  1.000  0.000 } def
+/colorBlue {  0.000  0.000  1.000 } def
+/colorYellow {  1.000  1.000  0.000 } def
+/colorMagenta {  1.000  0.000  1.000 } def
+/colorCyan {  0.000  1.000  1.000 } def
+/colorWhite {  1.000  1.000  1.000 } def
+/colorBallStick {  0.400  0.400  0.400 } def
+/colorBallBond {  0.800  0.800  0.800 } def
+/colorWireFrame {  0.800  0.800  0.800 } def
+/colorTube {  0.400  0.400  0.400 } def
+/colorAxes {  0.000  0.000  0.000 } def
+/colorDDipole {  0.750  0.500  0.000 } def
+/colorBackground {  0.502  0.502  0.800 } def
+/colorVibVector {  0.000  0.500  0.750 } def
+
+% Size defines
+/boundingBoxLeft 21 def
+/boundingBoxRight 590 def
+/boundingBoxBottom 215 def
+/boundingBoxTop 576 def
+/boundingBoxWidth 569 def
+/boundingBoxHeight 361 def
+/widthBallStick  0.076 inch def
+/widthBallBond  0.044 inch def
+/widthTube  0.131 inch def
+/wireAtomSize {  0.044 inch } def
+/widthDDipole  0.044 inch def
+/widthVibVector  0.022 inch def
+/capped 1 def
+/nocap 0 def
+/solid {[] 0} def 
+/dashed {[5] 0} def
+
+%Font information
+/atomFontSize 8 def
+/AtomFont /Helvetica-Bold findfont atomFontSize scalefont def
+% Convoluted method for determining atomFontHeight
+0 0 moveto AtomFont setfont (A) false charpath flattenpath pathbbox
+	/atomFontHeight exch def pop pop pop newpath
+
+%Draw background (if PrintBackground = 1)
+PrintBackground 0 ne {drawBackground} if
+
+%Draw border (if PrintBorder = 1)
+PrintBorder 0 ne {drawBorder} if
+
+%Draw text labels (if PrintHeader = 1)
+PrintHeader 0 ne {drawHeader} if
+
+%Atom 27
+{  0.800  0.800  0.800 }  7.462 inch  4.562 inch  0.164 inch drawStrokedCircle
+
+%Bond 27 22
+colorBallBond  7.324 inch  4.651 inch  7.162 inch  4.756 inch widthBallBond solid capped drawStrokedLine
+
+%Symbol For Atom 27
+(H)   7.462 inch  4.562 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 22
+{  0.560  0.560  0.560 }  6.972 inch  4.878 inch  0.225 inch drawStrokedCircle
+
+%Atom 16
+{  0.800  0.800  0.800 }  1.124 inch  4.386 inch  0.164 inch drawStrokedCircle
+
+%Bond 22 20
+colorBallBond  6.795 inch  4.739 inch  6.519 inch  4.594 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  6.758 inch  4.812 inch  6.482 inch  4.667 inch widthBallBond dashed capped drawStrokedLine
+
+%Bond 22 24
+colorBallBond  7.026 inch  5.097 inch  7.043 inch  5.411 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  6.944 inch  5.101 inch  6.961 inch  5.414 inch widthBallBond dashed capped drawStrokedLine
+
+%Bond 16 11
+colorBallBond  1.256 inch  4.483 inch  1.412 inch  4.598 inch widthBallBond solid capped drawStrokedLine
+
+%Symbol For Atom 22
+(C)   6.972 inch  4.878 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 16
+(H)   1.124 inch  4.386 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 25
+{  0.800  0.800  0.800 }  6.263 inch  3.942 inch  0.164 inch drawStrokedCircle
+
+%Bond 25 20
+colorBallBond  6.275 inch  4.105 inch  6.288 inch  4.303 inch widthBallBond solid capped drawStrokedLine
+
+%Symbol For Atom 25
+(H)   6.263 inch  3.942 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 29
+{  0.800  0.800  0.800 }  7.536 inch  5.907 inch  0.164 inch drawStrokedCircle
+
+%Bond 29 24
+colorBallBond  7.391 inch  5.831 inch  7.214 inch  5.738 inch widthBallBond solid capped drawStrokedLine
+
+%Symbol For Atom 29
+(H)   7.536 inch  5.907 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 20
+{  0.560  0.560  0.560 }  6.304 inch  4.528 inch  0.225 inch drawStrokedCircle
+
+%Atom 14
+{  0.800  0.800  0.800 }  2.357 inch  3.844 inch  0.164 inch drawStrokedCircle
+
+%Atom 24
+{  0.560  0.560  0.560 }  7.014 inch  5.634 inch  0.225 inch drawStrokedCircle
+
+%Bond 20 19
+colorBallBond  6.095 inch  4.611 inch  5.831 inch  4.776 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  6.138 inch  4.680 inch  5.874 inch  4.845 inch widthBallBond dashed capped drawStrokedLine
+
+%Bond 14 9
+colorBallBond  2.337 inch  4.006 inch  2.313 inch  4.201 inch widthBallBond solid capped drawStrokedLine
+
+%Bond 24 23
+colorBallBond  6.850 inch  5.787 inch  6.593 inch  5.951 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  6.806 inch  5.718 inch  6.548 inch  5.883 inch widthBallBond dashed capped drawStrokedLine
+
+%Symbol For Atom 20
+(C)   6.304 inch  4.528 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 14
+(H)   2.357 inch  3.844 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 24
+(C)   7.014 inch  5.634 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 11
+{  0.560  0.560  0.560 }  1.594 inch  4.732 inch  0.225 inch drawStrokedCircle
+
+%Bond 11 9
+colorBallBond  1.780 inch  4.604 inch  2.067 inch  4.477 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  1.812 inch  4.680 inch  2.099 inch  4.552 inch widthBallBond dashed capped drawStrokedLine
+
+%Bond 11 13
+colorBallBond  1.526 inch  4.947 inch  1.489 inch  5.256 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  1.608 inch  4.956 inch  1.571 inch  5.265 inch widthBallBond dashed capped drawStrokedLine
+
+%Symbol For Atom 11
+(C)   1.594 inch  4.732 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 9
+{  0.560  0.560  0.560 }  2.285 inch  4.425 inch  0.225 inch drawStrokedCircle
+
+%Atom 5
+{  0.800  0.800  0.800 }  4.263 inch  5.480 inch  0.164 inch drawStrokedCircle
+
+%Bond 9 8
+colorBallBond  2.490 inch  4.520 inch  2.744 inch  4.702 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  2.442 inch  4.587 inch  2.696 inch  4.768 inch widthBallBond dashed capped drawStrokedLine
+
+%Bond 5 4
+colorBallBond  4.267 inch  5.316 inch  4.271 inch  5.125 inch widthBallBond solid capped drawStrokedLine
+
+%Symbol For Atom 9
+(C)   2.285 inch  4.425 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 5
+(H)   4.263 inch  5.480 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 18
+{  0.800  0.800  0.800 }  0.964 inch  5.719 inch  0.164 inch drawStrokedCircle
+
+%Bond 18 13
+colorBallBond  1.114 inch  5.653 inch  1.297 inch  5.571 inch widthBallBond solid capped drawStrokedLine
+
+%Symbol For Atom 18
+(H)   0.964 inch  5.719 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 19
+{  0.560  0.560  0.560 }  5.665 inch  4.928 inch  0.225 inch drawStrokedCircle
+
+%Atom 13
+{  0.560  0.560  0.560 }  1.503 inch  5.480 inch  0.225 inch drawStrokedCircle
+
+%Bond 19 3
+colorBallBond  5.470 inch  4.815 inch  5.156 inch  4.633 inch widthBallBond solid capped drawStrokedLine
+
+%Bond 19 21
+colorBallBond  5.638 inch  5.151 inch  5.658 inch  5.467 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  5.720 inch  5.147 inch  5.740 inch  5.463 inch widthBallBond dashed capped drawStrokedLine
+
+%Bond 13 12
+colorBallBond  1.658 inch  5.643 inch  1.906 inch  5.824 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  1.707 inch  5.577 inch  1.955 inch  5.758 inch widthBallBond dashed capped drawStrokedLine
+
+%Symbol For Atom 19
+(C)   5.665 inch  4.928 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 13
+(C)   1.503 inch  5.480 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 23
+{  0.560  0.560  0.560 }  6.384 inch  6.036 inch  0.225 inch drawStrokedCircle
+
+%Bond 23 21
+colorBallBond  6.169 inch  5.970 inch  5.891 inch  5.825 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  6.206 inch  5.897 inch  5.928 inch  5.752 inch widthBallBond dashed capped drawStrokedLine
+
+%Bond 23 28
+colorBallBond  6.395 inch  6.261 inch  6.405 inch  6.460 inch widthBallBond solid capped drawStrokedLine
+
+%Symbol For Atom 23
+(C)   6.384 inch  6.036 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 4
+{  0.560  0.560  0.560 }  4.276 inch  4.900 inch  0.225 inch drawStrokedCircle
+
+%Bond 4 2
+colorBallBond  4.064 inch  4.823 inch  3.799 inch  4.669 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  4.106 inch  4.753 inch  3.841 inch  4.599 inch widthBallBond solid capped drawStrokedLine
+
+%Bond 4 3
+colorBallBond  4.490 inch  4.828 inch  4.788 inch  4.663 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  4.450 inch  4.757 inch  4.748 inch  4.591 inch widthBallBond dashed capped drawStrokedLine
+
+%Symbol For Atom 4
+(C)   4.276 inch  4.900 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 3
+{  0.560  0.560  0.560 }  4.961 inch  4.520 inch  0.225 inch drawStrokedCircle
+
+%Atom 8
+{  0.560  0.560  0.560 }  2.900 inch  4.864 inch  0.225 inch drawStrokedCircle
+
+%Atom 21
+{  0.560  0.560  0.560 }  5.713 inch  5.686 inch  0.225 inch drawStrokedCircle
+
+%Atom 28
+{  0.800  0.800  0.800 }  6.414 inch  6.623 inch  0.164 inch drawStrokedCircle
+
+%Bond 3 6
+colorBallBond  5.010 inch  4.300 inch  5.017 inch  4.062 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  4.928 inch  4.297 inch  4.936 inch  4.059 inch widthBallBond solid capped drawStrokedLine
+
+%Bond 8 2
+colorBallBond  3.104 inch  4.768 inch  3.425 inch  4.618 inch widthBallBond solid capped drawStrokedLine
+
+%Bond 8 10
+colorBallBond  2.912 inch  5.088 inch  2.871 inch  5.401 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  2.830 inch  5.078 inch  2.790 inch  5.392 inch widthBallBond dashed capped drawStrokedLine
+
+%Bond 21 26
+colorBallBond  5.526 inch  5.811 inch  5.367 inch  5.917 inch widthBallBond solid capped drawStrokedLine
+
+%Symbol For Atom 3
+(C)   4.961 inch  4.520 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 8
+(C)   2.900 inch  4.864 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 21
+(C)   5.713 inch  5.686 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 28
+(H)   6.414 inch  6.623 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 2
+{  0.560  0.560  0.560 }  3.629 inch  4.523 inch  0.225 inch drawStrokedCircle
+
+%Bond 2 1
+colorBallBond  3.586 inch  4.302 inch  3.585 inch  4.026 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  3.668 inch  4.301 inch  3.666 inch  4.026 inch widthBallBond dashed capped drawStrokedLine
+
+%Symbol For Atom 2
+(C)   3.629 inch  4.523 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 6
+{  0.900  0.000  0.000 }  4.984 inch  3.839 inch  0.225 inch drawStrokedCircle
+
+%Atom 12
+{  0.560  0.560  0.560 }  2.110 inch  5.921 inch  0.225 inch drawStrokedCircle
+
+%Bond 12 10
+colorBallBond  2.329 inch  5.869 inch  2.615 inch  5.743 inch widthBallBond solid capped drawStrokedLine
+colorBallBond  2.296 inch  5.794 inch  2.583 inch  5.668 inch widthBallBond dashed capped drawStrokedLine
+
+%Bond 12 17
+colorBallBond  2.084 inch  6.144 inch  2.062 inch  6.340 inch widthBallBond solid capped drawStrokedLine
+
+%Symbol For Atom 6
+(O)   4.984 inch  3.839 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 12
+(C)   2.110 inch  5.921 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 10
+{  0.560  0.560  0.560 }  2.802 inch  5.616 inch  0.225 inch drawStrokedCircle
+
+%Atom 7
+{  0.800  0.800  0.800 }  4.155 inch  3.652 inch  0.164 inch drawStrokedCircle
+
+%Atom 1
+{  0.900  0.000  0.000 }  3.624 inch  3.805 inch  0.225 inch drawStrokedCircle
+
+%Bond 10 15
+colorBallBond  2.982 inch  5.751 inch  3.134 inch  5.866 inch widthBallBond solid capped drawStrokedLine
+
+%Bond 7 1
+colorBallBond  3.997 inch  3.697 inch  3.840 inch  3.742 inch widthBallBond solid capped drawStrokedLine
+
+%Symbol For Atom 10
+(C)   2.802 inch  5.616 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 7
+(H)   4.155 inch  3.652 inch AtomFont atomFontHeight drawCenteredText
+
+%Symbol For Atom 1
+(O)   3.624 inch  3.805 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 26
+{  0.800  0.800  0.800 }  5.231 inch  6.008 inch  0.164 inch drawStrokedCircle
+
+%Symbol For Atom 26
+(H)   5.231 inch  6.008 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 17
+{  0.800  0.800  0.800 }  2.043 inch  6.503 inch  0.164 inch drawStrokedCircle
+
+%Symbol For Atom 17
+(H)   2.043 inch  6.503 inch AtomFont atomFontHeight drawCenteredText
+
+%Atom 15
+{  0.800  0.800  0.800 }  3.265 inch  5.964 inch  0.164 inch drawStrokedCircle
+
+%Symbol For Atom 15
+(H)   3.265 inch  5.964 inch AtomFont atomFontHeight drawCenteredText
+
+showpage
+%%Trailer
+%%EOF

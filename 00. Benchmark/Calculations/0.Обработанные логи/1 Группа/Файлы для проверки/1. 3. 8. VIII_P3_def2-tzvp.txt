@@ -1,0 +1,134 @@
+Integrals replicated using symmetry in FoFCou.
+Raff kept on since  88.20% of shell-pairs survive, threshold=   0.20 IRatSp=88.
+DD1Dir:  Pass   2 NRAB=    49 NRAA=     0 NRBB=     0 NR=    98.
+DD1Dir:  Pass   3 NRAB=    49 NRAA=     0 NRBB=     0 NR=    98.
+DD1Dir:  Pass   4 NRAB=    49 NRAA=     0 NRBB=     0 NR=    98.
+DD1Dir:  Pass   5 NRAB=    49 NRAA=     0 NRBB=     0 NR=    98.
+DD1Dir:  Pass   6 NRAB=    49 NRAA=     0 NRBB=     0 NR=    98.
+DD1Dir:  Pass   7 NRAB=    49 NRAA=     0 NRBB=     0 NR=    98.
+DD1Dir:  Pass   8 NRAB=    49 NRAA=     0 NRBB=     0 NR=    98.
+DD1Dir:  Pass   9 NRAB=    43 NRAA=     0 NRBB=     0 NR=    86.
+Sorry, no attachment energies to unoccupied without  <ia|bc> integrals
+
+EPT corrections for alpha spin-orbital  18
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  18    P3:
+Koopmans theorem:            -0.67776D+00 au  -18.443 eV
+Converged second order pole: -0.54859D+00 au  -14.928 eV  0.871 (PS)
+Converged 3rd order P3 pole: -0.59481D+00 au  -16.186 eV  0.899 (PS)
+Renormalized (P3+)  P3 pole: -0.58732D+00 au  -15.982 eV  0.894 (PS)
+
+EPT corrections for alpha spin-orbital  19
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  19    P3:
+Koopmans theorem:            -0.67538D+00 au  -18.378 eV
+Converged second order pole: -0.54392D+00 au  -14.801 eV  0.867 (PS)
+Converged 3rd order P3 pole: -0.59113D+00 au  -16.085 eV  0.898 (PS)
+Renormalized (P3+)  P3 pole: -0.58325D+00 au  -15.871 eV  0.892 (PS)
+
+EPT corrections for alpha spin-orbital  20
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  20    P3:
+Koopmans theorem:            -0.66149D+00 au  -18.000 eV
+Converged second order pole: -0.51941D+00 au  -14.134 eV  0.870 (PS)
+Converged 3rd order P3 pole: -0.56931D+00 au  -15.492 eV  0.901 (PS)
+Renormalized (P3+)  P3 pole: -0.56116D+00 au  -15.270 eV  0.895 (PS)
+
+EPT corrections for alpha spin-orbital  21
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  21    P3:
+Koopmans theorem:            -0.63395D+00 au  -17.251 eV
+Converged second order pole: -0.55910D+00 au  -15.214 eV  0.862 (PS)
+Converged 3rd order P3 pole: -0.58110D+00 au  -15.812 eV  0.870 (PS)
+Renormalized (P3+)  P3 pole: -0.57722D+00 au  -15.707 eV  0.868 (PS)
+
+EPT corrections for alpha spin-orbital  22
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  22    P3:
+Koopmans theorem:            -0.63276D+00 au  -17.218 eV
+Converged second order pole: -0.52671D+00 au  -14.333 eV  0.848 (PS)
+Converged 3rd order P3 pole: -0.56751D+00 au  -15.443 eV  0.881 (PS)
+Renormalized (P3+)  P3 pole: -0.55942D+00 au  -15.223 eV  0.874 (PS)
+
+EPT corrections for alpha spin-orbital  23
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  23    P3:
+Koopmans theorem:            -0.61510D+00 au  -16.738 eV
+Converged second order pole: -0.52317D+00 au  -14.236 eV  0.871 (PS)
+Converged 3rd order P3 pole: -0.55414D+00 au  -15.079 eV  0.886 (PS)
+Renormalized (P3+)  P3 pole: -0.54870D+00 au  -14.931 eV  0.883 (PS)
+
+EPT corrections for alpha spin-orbital  24
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  24    P3:
+Koopmans theorem:            -0.60385D+00 au  -16.432 eV
+Converged second order pole: -0.51663D+00 au  -14.058 eV  0.862 (PS)
+Converged 3rd order P3 pole: -0.54497D+00 au  -14.829 eV  0.880 (PS)
+Renormalized (P3+)  P3 pole: -0.54000D+00 au  -14.694 eV  0.876 (PS)
+
+EPT corrections for alpha spin-orbital  25
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  25    P3:
+Koopmans theorem:            -0.57663D+00 au  -15.691 eV
+Converged second order pole: -0.49505D+00 au  -13.471 eV  0.872 (PS)
+Converged 3rd order P3 pole: -0.52430D+00 au  -14.267 eV  0.894 (PS)
+Renormalized (P3+)  P3 pole: -0.51906D+00 au  -14.124 eV  0.890 (PS)
+
+EPT corrections for alpha spin-orbital  26
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  26    P3:
+Koopmans theorem:            -0.56970D+00 au  -15.502 eV
+Converged second order pole: -0.49388D+00 au  -13.439 eV  0.878 (PS)
+Converged 3rd order P3 pole: -0.51847D+00 au  -14.108 eV  0.895 (PS)
+Renormalized (P3+)  P3 pole: -0.51424D+00 au  -13.993 eV  0.892 (PS)
+
+EPT corrections for alpha spin-orbital  27
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  27    P3:
+Koopmans theorem:            -0.53013D+00 au  -14.426 eV
+Converged second order pole: -0.46643D+00 au  -12.692 eV  0.861 (PS)
+Converged 3rd order P3 pole: -0.49007D+00 au  -13.335 eV  0.873 (PS)
+Renormalized (P3+)  P3 pole: -0.48617D+00 au  -13.229 eV  0.870 (PS)
+
+EPT corrections for alpha spin-orbital  28
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  28    P3:
+Koopmans theorem:            -0.44990D+00 au  -12.242 eV
+Converged second order pole: -0.34752D+00 au   -9.457 eV  0.850 (PS)
+Converged 3rd order P3 pole: -0.39208D+00 au  -10.669 eV  0.885 (PS)
+Renormalized (P3+)  P3 pole: -0.38335D+00 au  -10.432 eV  0.877 (PS)
+
+EPT corrections for alpha spin-orbital  29
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  29    P3:
+Koopmans theorem:            -0.38756D+00 au  -10.546 eV
+Converged second order pole: -0.36087D+00 au   -9.820 eV  0.884 (PS)
+Converged 3rd order P3 pole: -0.37808D+00 au  -10.288 eV  0.895 (PS)
+Renormalized (P3+)  P3 pole: -0.37537D+00 au  -10.214 eV  0.893 (PS)
+Leave Link  908 at Wed Apr 20 12:30:49 2022, MaxMem=   268435456 cpu:            5919.2 elap:             994.9
+(Enter /usr/local/Gaussian/gaussian-16-A03-sse4_2/g16/l601.exe)
+Copying SCF densities to generalized density rwf, IOpCl= 0 IROHF=0.

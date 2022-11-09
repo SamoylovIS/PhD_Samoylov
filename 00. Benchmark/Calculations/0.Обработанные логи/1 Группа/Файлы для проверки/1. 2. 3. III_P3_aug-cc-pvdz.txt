@@ -1,0 +1,87 @@
+Integrals replicated using symmetry in FoFCou.
+Raff kept on since  99.01% of shell-pairs survive, threshold=   0.20 IRatSp=99.
+DD1Dir:  Pass   2 NRAB=   105 NRAA=     0 NRBB=     0 NR=   210.
+Sorry, no attachment energies to unoccupied without  <ia|bc> integrals
+
+EPT corrections for alpha spin-orbital  13
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  13    P3:
+Koopmans theorem:            -0.57272D+00 au  -15.584 eV
+Converged second order pole: -0.49418D+00 au  -13.447 eV  0.868 (PS)
+Converged 3rd order P3 pole: -0.51618D+00 au  -14.046 eV  0.882 (PS)
+Renormalized (P3+)  P3 pole: -0.51219D+00 au  -13.937 eV  0.879 (PS)
+
+EPT corrections for alpha spin-orbital  14
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  14    P3:
+Koopmans theorem:            -0.56423D+00 au  -15.353 eV
+Converged second order pole: -0.50509D+00 au  -13.744 eV  0.892 (PS)
+Converged 3rd order P3 pole: -0.51800D+00 au  -14.095 eV  0.898 (PS)
+Renormalized (P3+)  P3 pole: -0.51599D+00 au  -14.041 eV  0.897 (PS)
+
+EPT corrections for alpha spin-orbital  15
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  15    P3:
+Koopmans theorem:            -0.54597D+00 au  -14.857 eV
+Converged second order pole: -0.45270D+00 au  -12.319 eV  0.862 (PS)
+Converged 3rd order P3 pole: -0.48523D+00 au  -13.204 eV  0.888 (PS)
+Renormalized (P3+)  P3 pole: -0.47915D+00 au  -13.038 eV  0.882 (PS)
+
+EPT corrections for alpha spin-orbital  16
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  16    P3:
+Koopmans theorem:            -0.52843D+00 au  -14.379 eV
+Converged second order pole: -0.46014D+00 au  -12.521 eV  0.883 (PS)
+Converged 3rd order P3 pole: -0.47853D+00 au  -13.021 eV  0.897 (PS)
+Renormalized (P3+)  P3 pole: -0.47547D+00 au  -12.938 eV  0.895 (PS)
+
+EPT corrections for alpha spin-orbital  17
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  17    P3:
+Koopmans theorem:            -0.50294D+00 au  -13.686 eV
+Converged second order pole: -0.43312D+00 au  -11.786 eV  0.863 (PS)
+Converged 3rd order P3 pole: -0.45134D+00 au  -12.282 eV  0.868 (PS)
+Renormalized (P3+)  P3 pole: -0.44829D+00 au  -12.198 eV  0.867 (PS)
+
+EPT corrections for alpha spin-orbital  18
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  18    P3:
+Koopmans theorem:            -0.46397D+00 au  -12.625 eV
+Converged second order pole: -0.39003D+00 au  -10.613 eV  0.854 (PS)
+Converged 3rd order P3 pole: -0.41410D+00 au  -11.268 eV  0.867 (PS)
+Renormalized (P3+)  P3 pole: -0.41008D+00 au  -11.159 eV  0.864 (PS)
+
+EPT corrections for alpha spin-orbital  19
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  19    P3:
+Koopmans theorem:            -0.39577D+00 au  -10.769 eV
+Converged second order pole: -0.28103D+00 au   -7.647 eV  0.845 (PS)
+Converged 3rd order P3 pole: -0.32685D+00 au   -8.894 eV  0.883 (PS)
+Renormalized (P3+)  P3 pole: -0.31786D+00 au   -8.649 eV  0.874 (PS)
+
+EPT corrections for alpha spin-orbital  20
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  20    P3:
+Koopmans theorem:            -0.31555D+00 au   -8.586 eV
+Converged second order pole: -0.28079D+00 au   -7.641 eV  0.879 (PS)
+Converged 3rd order P3 pole: -0.29696D+00 au   -8.081 eV  0.891 (PS)
+Renormalized (P3+)  P3 pole: -0.29445D+00 au   -8.012 eV  0.889 (PS)
+Leave Link  908 at Wed Mar 30 16:23:11 2022, MaxMem=   268435456 cpu:             963.9 elap:             162.1
+(Enter /usr/local/Gaussian/gaussian-16-A03-sse4_2/g16/l601.exe)
+Copying SCF densities to generalized density rwf, IOpCl= 0 IROHF=0.

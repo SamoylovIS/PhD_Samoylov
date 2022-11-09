@@ -1,0 +1,32 @@
+Integrals replicated using symmetry in FoFCou.
+Raff kept on since  90.22% of shell-pairs survive, threshold=   0.20 IRatSp=90.
+DD1Dir:  Pass   2 NRAB=  1040 NRAA=     0 NRBB=     0 NR=  2080.
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=       128
+NAB=    64 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=       128
+NAB=    64 NAA=     0
+
+Summary of results for alpha spin-orbital  65    P3:
+Koopmans theorem:             0.28062D-01 au    0.764 eV
+Converged second order pole:  0.16292D-01 au    0.443 eV  0.985 (PS)
+Converged 3rd order P3 pole:  0.16590D-01 au    0.451 eV  0.984 (PS)
+Renormalized (P3+)  P3 pole:  0.16557D-01 au    0.451 eV  0.984 (PS)
+
+EPT corrections for alpha spin-orbital  66
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+GFdDir will call FoFJK   1 times, MxPair=       128
+NAB=    64 NAA=     0
+GFdDir will call FoFJK   1 times, MxPair=       128
+NAB=    64 NAA=     0
+
+Summary of results for alpha spin-orbital  66    P3:
+Koopmans theorem:             0.32525D-01 au    0.885 eV
+Converged second order pole:  0.21782D-01 au    0.593 eV  0.986 (PS)
+Converged 3rd order P3 pole:  0.21921D-01 au    0.597 eV  0.985 (PS)
+Renormalized (P3+)  P3 pole:  0.21906D-01 au    0.596 eV  0.985 (PS)
+Leave Link  908 at Sun Nov  8 02:34:45 2020, MaxMem=212600881152 cpu:         3672225.0 elap:           51077.0
+(Enter /usr/local/Gaussian/gaussian-16-A03-avx2/g16/l601.exe)
+Copying SCF densities to generalized density rwf, IOpCl= 0 IROHF=0.

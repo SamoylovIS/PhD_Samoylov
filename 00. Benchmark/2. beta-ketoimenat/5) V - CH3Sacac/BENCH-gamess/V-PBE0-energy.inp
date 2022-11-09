@@ -1,0 +1,36 @@
+ $CONTRL DFTTYP=PBE0 $END
+ $SYSTEM MWORDS=100 $END
+ $CONTRL MAXIT=200 SCFTYP=RHF RUNTYP=energy ISPHER=1 UNITS=ANGS
+  EXETYP=RUN COORD=UNIQUE ICHARG=0                   $END
+ $BASIS GBASIS=CCT                                   $END
+ $SCF DIRSCF=.TRUE.                                  $END
+ $SCF DIIS=.TRUE.                                    $END
+ $SCF SOSCF=.FALSE.                                  $END
+ $STATPT NSTEP=100 OPTTOL=1D-7                       $END
+ $DFT NRAD=99 NLEB=1202                              $END
+ $DATA
+ C6H10SO
+C1
+OXYGEN      8.0     -1.549162000        -1.377045000        -0.000030000
+CARBON      6.0     -1.880796000        -0.199055000         0.000091000
+CARBON      6.0      0.445517000         0.705588000        -0.000121000
+CARBON      6.0     -0.900153000         0.879296000        -0.000069000
+HYDROGEN    1.0     -1.274317000         1.895573000        -0.000126000
+CARBON      6.0     -3.342648000         0.201769000        -0.000015000
+CARBON      6.0      1.349141000         1.906005000        -0.000160000
+HYDROGEN    1.0     -3.572228000         0.809625000        -0.878155000
+HYDROGEN    1.0      0.757839000         2.819571000        -0.000276000
+HYDROGEN    1.0      1.996761000         1.919456000         0.877770000
+HYDROGEN    1.0     -3.572560000         0.808362000         0.878919000
+HYDROGEN    1.0     -3.966719000        -0.687947000        -0.000729000
+HYDROGEN    1.0      1.996902000         1.919321000        -0.877982000
+SULFUR     16.0      1.150442000        -0.897631000        -0.000013000
+CARBON      6.0      2.942868000        -0.570409000         0.000276000
+HYDROGEN    1.0      3.394491000        -1.561090000         0.000452000
+HYDROGEN    1.0      3.271401000        -0.041881000        -0.891756000
+HYDROGEN    1.0      3.271090000        -0.041705000         0.892318000
+ $END
+
+!
+!TRAVIS-CI SMALL
+! 

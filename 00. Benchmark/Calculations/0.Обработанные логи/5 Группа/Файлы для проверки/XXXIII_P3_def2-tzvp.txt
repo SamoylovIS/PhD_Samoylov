@@ -1,0 +1,24 @@
+Sorry, no attachment energies to unoccupied without  <ia|bc> integrals
+
+EPT corrections for alpha spin-orbital  46
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  46    P3:
+Koopmans theorem:            -0.37109D+00 au  -10.098 eV
+Converged second order pole: -0.31914D+00 au   -8.684 eV  0.868 (PS)
+Converged 3rd order P3 pole: -0.34155D+00 au   -9.294 eV  0.885 (PS)
+Renormalized (P3+)  P3 pole: -0.33742D+00 au   -9.182 eV  0.882 (PS)
+
+EPT corrections for alpha spin-orbital  47
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  47    P3:
+Koopmans theorem:            -0.30706D+00 au   -8.355 eV
+Converged second order pole: -0.27384D+00 au   -7.452 eV  0.862 (PS)
+Converged 3rd order P3 pole: -0.29645D+00 au   -8.067 eV  0.879 (PS)
+Renormalized (P3+)  P3 pole: -0.29236D+00 au   -7.956 eV  0.876 (PS)
+Leave Link  908 at Wed May 11 09:51:41 2022, MaxMem=104438169600 cpu:          188555.0 elap:            2948.8
+(Enter /usr/local/Gaussian/gaussian-16-A03-sse4_2/g16/l601.exe)
+Copying SCF densities to generalized density rwf, IOpCl= 0 IROHF=0.

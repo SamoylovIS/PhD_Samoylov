@@ -1,0 +1,64 @@
+Sorry, no attachment energies to unoccupied without  <ia|bc> integrals
+
+EPT corrections for alpha spin-orbital  53
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  53    P3:
+Koopmans theorem:            -0.44761D+00 au  -12.180 eV
+Converged second order pole: -0.39777D+00 au  -10.824 eV  0.830 (PS)
+Converged 3rd order P3 pole: -0.41886D+00 au  -11.398 eV  0.832 (PS)
+Renormalized (P3+)  P3 pole: -0.41445D+00 au  -11.278 eV  0.831 (PS)
+
+EPT corrections for alpha spin-orbital  54
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  54    P3:
+Koopmans theorem:            -0.39291D+00 au  -10.692 eV
+Converged second order pole: -0.35373D+00 au   -9.626 eV  0.851 (PS)
+Converged 3rd order P3 pole: -0.37334D+00 au  -10.159 eV  0.855 (PS)
+Renormalized (P3+)  P3 pole: -0.36978D+00 au  -10.062 eV  0.854 (PS)
+
+EPT corrections for alpha spin-orbital  55
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  55    P3:
+Koopmans theorem:            -0.36504D+00 au   -9.933 eV
+Converged second order pole: -0.34593D+00 au   -9.413 eV  0.850 (PS)
+Converged 3rd order P3 pole: -0.36103D+00 au   -9.824 eV  0.853 (PS)
+Renormalized (P3+)  P3 pole: -0.35821D+00 au   -9.748 eV  0.852 (PS)
+
+EPT corrections for alpha spin-orbital  56
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  56    P3:
+Koopmans theorem:            -0.35938D+00 au   -9.779 eV
+Converged second order pole: -0.33522D+00 au   -9.122 eV  0.854 (PS)
+Converged 3rd order P3 pole: -0.35184D+00 au   -9.574 eV  0.859 (PS)
+Renormalized (P3+)  P3 pole: -0.34884D+00 au   -9.493 eV  0.857 (PS)
+
+EPT corrections for alpha spin-orbital  57
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  57    P3:
+Koopmans theorem:            -0.35305D+00 au   -9.607 eV
+Converged second order pole: -0.33887D+00 au   -9.221 eV  0.857 (PS)
+Converged 3rd order P3 pole: -0.35290D+00 au   -9.603 eV  0.860 (PS)
+Renormalized (P3+)  P3 pole: -0.35035D+00 au   -9.533 eV  0.859 (PS)
+
+EPT corrections for alpha spin-orbital  58
+Quasiparticle pole search in order 2
+Quasiparticle pole search in order 3
+
+Summary of results for alpha spin-orbital  58    P3:
+Koopmans theorem:            -0.29625D+00 au   -8.061 eV
+Converged second order pole: -0.28657D+00 au   -7.798 eV  0.852 (PS)
+Converged 3rd order P3 pole: -0.30360D+00 au   -8.261 eV  0.863 (PS)
+Renormalized (P3+)  P3 pole: -0.30046D+00 au   -8.176 eV  0.860 (PS)
+Leave Link  908 at Mon Apr 18 09:44:16 2022, MaxMem= 26109542400 cpu:          204898.8 elap:           34401.8
+(Enter /usr/local/Gaussian/gaussian-16-A03-sse4_2/g16/l601.exe)
+Copying SCF densities to generalized density rwf, IOpCl= 0 IROHF=0.
